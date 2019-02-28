@@ -1,0 +1,16 @@
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\bin\Release\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\bin\Release\netcoreapp2.1\ChubbInsuranceClaims.deps.json
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\bin\Release\netcoreapp2.1\ChubbInsuranceClaims.runtimeconfig.json
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\bin\Release\netcoreapp2.1\ChubbInsuranceClaims.runtimeconfig.dev.json
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\bin\Release\netcoreapp2.1\ChubbInsuranceClaims.dll
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\bin\Release\netcoreapp2.1\ChubbInsuranceClaims.pdb
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\ChubbInsuranceClaims.csprojAssemblyReference.cache
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\ChubbInsuranceClaims.csproj.CoreCompileInputs.cache
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\ChubbInsuranceClaims.RazorAssemblyInfo.cache
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\ChubbInsuranceClaims.RazorAssemblyInfo.cs
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\ChubbInsuranceClaims.AssemblyInfoInputs.cache
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\ChubbInsuranceClaims.AssemblyInfo.cs
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\ChubbInsuranceClaims.RazorTargetAssemblyInfo.cache
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\ChubbInsuranceClaims.dll
+C:\Users\s9ram7\Desktop\ChubbClaims\ChubbInsuranceClaims\ChubbInsuranceClaims\obj\Release\netcoreapp2.1\ChubbInsuranceClaims.pdb
