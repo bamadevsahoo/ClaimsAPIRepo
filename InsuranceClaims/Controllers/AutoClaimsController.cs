@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using InsuranceClaims.Models;
 using System.Web.Http;
+using System.Text;
 
 namespace InsuranceClaims.Controllers
 {
@@ -40,7 +41,16 @@ namespace InsuranceClaims.Controllers
         public IActionResult Post([FromBody] AutoClaim value)
         {
             value.claimIdIdentity = (ClaimRespository.GetItemsAsync().Result.Count() == 0)? 1 :  ClaimRespository.GetItemsAsync().Result.Max(x => x.claimIdIdentity) +1;
-            value.claimNumber = "CLM" + value.claimIdIdentity.ToString();
+            //int i = 1;
+            StringBuilder appendZeroclaimIdIdentity = new StringBuilder();
+                if(Convert.ToString(value.claimIdIdentity).Length<7)
+            {
+                for(int i=1;i<= 7-Convert.ToString(value.claimIdIdentity).Length; ++ i )
+                {
+                    appendZeroclaimIdIdentity.Append("0");
+                }
+            }
+            value.claimNumber = "JY19J" + appendZeroclaimIdIdentity.ToString()+ value.claimIdIdentity.ToString();
             var ClaimsCreate = ClaimRespository.CreateItemAsync(value).Result;
             return Ok(ClaimsCreate);
         }
